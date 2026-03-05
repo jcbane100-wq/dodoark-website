@@ -278,7 +278,7 @@ export default function HomePage() {
               </div>
 
               <a
-                href="https://discord.gg/dodoark"
+                href="https://discord.gg/neHmXztaDw"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex w-full items-center justify-center gap-2 rounded-xl bg-[#5865F2] px-6 py-3 text-base font-semibold text-white transition-all hover:bg-[#4752c4]"

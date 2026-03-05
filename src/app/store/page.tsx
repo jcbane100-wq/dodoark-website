@@ -85,7 +85,7 @@ export default function StorePage() {
             </p>
           </div>
           <a
-            href="https://discord.gg/dodoark"
+            href="https://discord.gg/neHmXztaDw"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 rounded-xl bg-emerald-500/20 px-6 py-3 text-sm font-semibold text-emerald-400 transition-all hover:bg-emerald-500/30"

@@ -66,7 +66,7 @@ export default function Navbar() {
           {/* CTA Buttons */}
           <div className="hidden items-center gap-3 md:flex">
             <a
-              href="https://discord.gg/dodoark"
+              href="https://discord.gg/neHmXztaDw"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1.5 rounded-lg bg-[#5865F2]/20 px-4 py-2 text-sm font-medium text-[#5865F2] transition-all hover:bg-[#5865F2]/30 hover:text-[#7289da]"
@@ -116,7 +116,7 @@ export default function Navbar() {
             })}
             <div className="flex gap-3 pt-3">
               <a
-                href="https://discord.gg/dodoark"
+                href="https://discord.gg/neHmXztaDw"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex flex-1 items-center justify-center gap-1.5 rounded-lg bg-[#5865F2]/20 px-4 py-2.5 text-sm font-medium text-[#5865F2]"

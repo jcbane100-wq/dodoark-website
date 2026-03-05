@@ -48,7 +48,7 @@ export default function HeroSection() {
             <ChevronRight className="h-5 w-5 transition-transform group-hover:translate-x-0.5" />
           </Link>
           <a
-            href="https://discord.gg/dodoark"
+            href="https://discord.gg/neHmXztaDw"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 rounded-xl border border-[#5865F2]/30 bg-[#5865F2]/10 px-8 py-3.5 text-base font-semibold text-[#5865F2] transition-all hover:bg-[#5865F2]/20"

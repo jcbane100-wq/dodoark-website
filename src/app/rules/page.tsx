@@ -204,7 +204,7 @@ export default function RulesPage() {
           Provide evidence (screenshots, video) whenever possible.
         </p>
         <a
-          href="https://discord.gg/dodoark"
+          href="https://discord.gg/neHmXztaDw"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 rounded-lg bg-[#5865F2]/20 px-6 py-2.5 text-sm font-medium text-[#5865F2] transition-all hover:bg-[#5865F2]/30"
