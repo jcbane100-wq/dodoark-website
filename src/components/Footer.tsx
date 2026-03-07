@@ -16,7 +16,7 @@ const footerLinks: Record<string, FooterLink[]> = {
     { href: "/status", label: "Status" },
   ],
   Community: [
-    { href: "https://discord.gg/neHmXztaDw", label: "Discord", external: true },
+    { href: "https://discord.gg/NwWWu5k2Th", label: "Discord", external: true },
     { href: "/store", label: "Store" },
     { href: "/rules", label: "Server Rules" },
   ],
@@ -45,7 +45,7 @@ export default function Footer() {
               Premium ARK Survival Ascended server cluster. Boosted rates, active community, and fair play.
             </p>
             <a
-              href="https://discord.gg/neHmXztaDw"
+              href="https://discord.gg/NwWWu5k2Th"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-4 inline-flex items-center gap-2 rounded-lg bg-[#5865F2]/15 px-4 py-2 text-sm font-medium text-[#5865F2] transition-all hover:bg-[#5865F2]/25"
